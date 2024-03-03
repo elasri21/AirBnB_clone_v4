@@ -105,3 +105,11 @@ button:hover {
 .locations:hover .popover {
     visibility: visible;
 }
+
+.popover ul li input {
+    margin-right: 10px;
+}
+
+.popover ul li ul li input {
+    margin-right: 10px;
+}
